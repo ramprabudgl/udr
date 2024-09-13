@@ -1,11 +1,11 @@
-module github.com/free5gc/udr
+module github.com/ramprabudgl/udr
 
 go 1.21
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/evanphx/json-patch v0.5.2
-	github.com/free5gc/openapi v1.0.8
+	github.com/ramprabudgl/openapi v1.1.5
 	github.com/free5gc/util v1.0.6
 	github.com/gin-gonic/gin v1.9.1
 	github.com/golang/mock v1.4.4
